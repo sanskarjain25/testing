@@ -1,0 +1,41 @@
+<div class="container" *ngIf="isLoading">
+  <div class="loading">
+    <app-loading-spinner></app-loading-spinner>
+  </div>
+</div>
+
+<div class="container" *ngIf="!isLoading">
+  <div class="main-content">
+    <!-- Sidebar Section -->
+    <div class="sidebar">
+      <label for="filter">Search News by Name</label>
+      <input (keyup)="getNewsByName()" type="text" [(ngModel)]="filteredStatus" placeholder="Search..."/>
+
+      <div class="news-list">
+        <div *ngFor="let news of newsList" class="news-item" (click)="goToNewsSource(news)">
+          <p>{{news.name}}</p>
+        </div>
+      </div>
+    </div>
+<div>
+  <button class="btn btn-primary" (click)="Offline(newsCard)">Offline</button>
+
+</div>
+    <!-- Main News Section -->
+    <div class="news-section">
+      <div class="grid">
+        <div class="news-card" *ngFor="let newsCard of newsSourceData; let i = index" [@fade]>
+          <div class="image-container">
+            <img class="w-full" [src]="newsCard.urlToImage" [alt]="newsCard.title" />
+          </div>
+          <div class="content">
+            <h3 class="movie-title">{{ newsCard.title }}</h3>
+            <button class="btn btn-primary" (click)="onDetails(newsCard)">Details</button>
+            <button class="btn btn-primary" (click)="onDowload(newsCard)">Dowload</button>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

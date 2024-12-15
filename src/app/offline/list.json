@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Hyung-Jin Kim, Kim Tong-Hyung",
+            "title": "South Korea’s parliament votes to impeach President Yoon",
+            "description": "Mr Yoon’s presidential powers and duties will be suspended after copies of a document on the impeachment are delivered to him and to the Constitutional Court.",
+            "url": "http://www.afr.com/world/asia/south-korea-s-parliament-votes-to-impeach-president-yoon-20241214-p5kyf5",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_325%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/22d02071b14ad680264a9ceec0ccd23c04c04b20",
+            "publishedAt": "2024-12-14T09:25:39Z",
+            "content": "Seoul | South Korean lawmakers impeached President Yoon Suk Yeol, putting him on the brink of being ousted less than two weeks after he shocked the nation by briefly imposing martial law.\r\nThe Nation… [+214 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Rachael Ward, William Ton",
+            "title": "Kevin Andrews: The former Liberal minister has died at 69",
+            "description": "The Liberal Party stalwart died on Friday with his wife Margie by his side, his family announced. He had been battling cancer for the past year.",
+            "url": "http://www.afr.com/politics/federal/former-liberal-minister-kevin-andrews-dead-at-69-20241214-p5kydo",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3027%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_16/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/a408a10007c6b90b2f3ec7dc9191bc16425a8784",
+            "publishedAt": "2024-12-14T01:28:59Z",
+            "content": "Former defence minister and Liberal Party stalwart Kevin Andrews has died aged 69.\r\nMr Andrews died on Friday with his wife Margie by his side, his family announced in a statement shared by former pr… [+45 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Julie Hare",
+            "title": "ANU vice chancellor Genevieve Bell was once a rock star but is now under siege",
+            "description": "The Australian National University boss is pushing ahead with a massive restructure, and that is causing headaches for everyone.",
+            "url": "http://www.afr.com/work-and-careers/workplace/how-genevieve-bell-went-from-rock-star-to-under-siege-20241211-p5kxmh",
+            "urlToImage": "https://static.ffx.io/images/$zoom_1.3786%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1488%2C$y_365/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/b262b14656deeb039cdcf7a7472d87816cbb7789",
+            "publishedAt": "2024-12-13T18:00:00Z",
+            "content": "Gift this article\r\nSubscribe to gift this article\r\nGift 5 articles to anyone you choose each month when you subscribe.\r\nSubscribe nowAlready a subscriber?Login\r\nA month ago, chipmaker Intel announced… [+301 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Angela Macdonald-Smith",
+            "title": "Nuclear power Australia: Peter Dutton’s costings underpinned by ‘distorted numbers’",
+            "description": "Critics point to what they call four miscalculations in the modelling by Frontier Economics.",
+            "url": "http://www.afr.com/policy/energy-and-climate/dutton-s-nuclear-costings-underpinned-by-distorted-numbers-20241213-p5ky5r",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2077%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/17de530b4ef161e2b23d49a21e7f1a72613f8ce8",
+            "publishedAt": "2024-12-13T07:56:07Z",
+            "content": "Subscribe to gift this article\r\nGift 5 articles to anyone you choose each month when you subscribe.\r\nSubscribe nowAlready a subscriber?Login"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Gus McCubbing",
+            "title": "Victorian budget: Tax hit for homeowners, EV drivers as Vic deficit blows out to $3.6b",
+            "description": "Victorian Treasurer Tim Pallas revealed property owners face a doubled fire services levy while electric vehicle drivers will lose a registration discount.",
+            "url": "http://www.afr.com/politics/tax-hit-for-homeowners-ev-drivers-as-vic-deficit-blows-out-to-3-6b-20241213-p5ky8f",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.6586%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_205%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/29647e63c1e4ce568f63a80df9d8d70ba933d071",
+            "publishedAt": "2024-12-13T07:12:08Z",
+            "content": "Subscribe to gift this article\r\nGift 5 articles to anyone you choose each month when you subscribe.\r\nSubscribe nowAlready a subscriber?Login"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "The AFR View",
+            "title": "Victorian budget: Jacinta Allan-Tim Pallas’ Economic Statement won’t make Victoria investable again",
+            "description": "The government’s plan is mostly window dressing. It does nothing to fix the state’s fundamental business investment problem which is about the budget, stupid.",
+            "url": "http://www.afr.com/policy/economy/economic-statement-won-t-make-victoria-investable-again-20241209-p5kx2q",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_87/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/2ce55524ad167c53ff57d072c2e09ecff473bfeb",
+            "publishedAt": "2024-12-10T07:31:09Z",
+            "content": "Victorias economic statement is mostly a cosmetic exercise that glosses over the structural budget problems facing Australias most indebted state government. The 36-page brochure launched on Tuesday … [+658 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "John Kehoe",
+            "title": "Victoria economy: Jacinta Allan’s business growth plan falls flat",
+            "description": "The state’s new strategy resembles a political document drawn up in an episode of Utopia rather than a serious economic blueprint to revive the state.",
+            "url": "http://www.afr.com/policy/economy/labor-s-growth-plan-in-victoria-falls-flat-20241210-p5kx7v",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.8568%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_282%2C$y_94/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/ae5573a9e48eba16c006bb59c10dfba303007a20",
+            "publishedAt": "2024-12-10T03:34:29Z",
+            "content": "Victorias new growth plan resembles a political document drawn up in an episode of Utopia rather than a serious economic blueprint to revive the struggling state.\r\nVictoria should get the basic econo… [+175 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Gus McCubbing",
+            "title": "Victorian economy: Jacinta Allan promises to cut red tape, fast-track gas project approvals, and appoints Ahmed Fahour to a business taskforce",
+            "description": "Premier Jacinta Allan has released her economic statement that includes moves to cut red tape, speed up gas approvals and introduce a business council.",
+            "url": "http://www.afr.com/politics/allan-vows-to-cut-red-tape-cosy-up-to-business-to-revive-victoria-20241204-p5kvpf",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_33/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/60b9f4b5d61562f94fed0f03f53ba92b04c6c936",
+            "publishedAt": "2024-12-10T03:26:41Z",
+            "content": "Employer groups and economists panned a major economic plan by Victorian Premier Jacinta Allan as failing to address the states soaring debt and ailing finances but said it contained some modest step… [+349 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Michael Read",
+            "title": "How Victoria became one of the rich world’s most indebted provinces",
+            "description": "Victoria is the fourth-most indebted advanced economy state government outside the US. It may soon find there’s a fine line between nation-building and overbuilding.",
+            "url": "http://www.afr.com/policy/economy/how-victoria-became-one-of-the-rich-world-s-most-indebted-states-20241202-p5kv2k",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/eec3963d452ea20b427ad16a470cfc4c52234e87",
+            "publishedAt": "2024-12-09T00:54:19Z",
+            "content": "Victorias debt boom is a stark reminder that when it comes to spending, Australian states have few brakes and even fewer boundaries.\r\nWhat has been missing from the recent debate about government spe… [+205 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Saul Eslake",
+            "title": "Victorian economy: The state’s finances mean voters could face cuts in government spending and tax increases",
+            "description": "The state’s parlous finances mean voters are bound to face a combination of cuts in government spending and increases in taxation.",
+            "url": "http://www.afr.com/politics/how-victoria-became-a-poor-state-and-the-16-charts-that-prove-it-20241122-p5ksuq",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ae5573a9e48eba16c006bb59c10dfba303007a20",
+            "publishedAt": "2024-11-24T18:00:00Z",
+            "content": "Gift this article\r\nSubscribe to gift this article\r\nGift 5 articles to anyone you choose each month when you subscribe.\r\nSubscribe nowAlready a subscriber?Login\r\nThroughout most, if not all, of the 20… [+548 chars]"
+        }
+    ]
+}
